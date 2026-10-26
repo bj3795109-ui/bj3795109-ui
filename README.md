@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I'm Aditya Jha 👋
 
-<!--
-**bj3795109-ui/bj3795109-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate specializing in Artificial Intelligence, interested in **Software Engineering, Backend Development, and Applied AI**.
 
-Here are some ideas to get you started:
+I enjoy solving algorithmic problems, understanding how systems work, and building software that solves practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:** C++ · Python · SQL
+
+**Backend:** FastAPI · REST APIs · PostgreSQL
+
+**Tools:** Git · Docker
+
+**AI/ML:** Computer Vision · CLIP · LLM APIs
+
+### 🚀 Projects
+
+#### [AI Photo Management Platform](https://github.com/bj3795109-ui/ai-photo-management-platform)
+
+An AI-powered photo management system built to organize, search, and manage large image collections.
+
+* Semantic image search using CLIP embeddings
+* Face detection, clustering, and duplicate detection
+* Background processing for large image collections
+* FastAPI backend with PostgreSQL and Docker
+
+**Tech:** Python, FastAPI, PostgreSQL, CLIP, Docker
+
+#### [Chargeback Verifier](https://github.com/bj3795109-ui/chargeback-verifier)
+
+A backend application for analyzing payment disputes and assisting with chargeback evidence verification.
+
+* Rule-based evidence validation
+* AI-assisted dispute analysis
+* Backend APIs for processing dispute information
+
+**Tech:** Python, FastAPI, PostgreSQL, LLM APIs
+
+### 🧩 Competitive Programming
+
+* **LeetCode:** 400+ problems solved
+* **CodeChef:** Peak Rating — 1586
+* **LeetCode:** 200-Day Consistency Badge
+* **Primary Language:** C++
+
+### 📌 Currently Learning
+
+* Backend Engineering & API Design
+* Data Structures & Algorithms
+* System Design Fundamentals
+* Scalable Software Architecture
+
+---
+
+### 🤝 Connect
+
+Always interested in learning, collaborating, and working on interesting engineering problems.
